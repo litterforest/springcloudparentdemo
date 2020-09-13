@@ -15,6 +15,7 @@
     <description>base-starter-parent，基于spring boot的开发环境框架</description>
     <modules>
         <module>webstarterparent</module>
+        <module>basestarterparent-webfeignparent</module>
     </modules>
 
     <dependencies>
