@@ -1,1 +1,0 @@
-package com.softd.archit.springcloudparentdemo.basestarterparent.webstarterparent;
