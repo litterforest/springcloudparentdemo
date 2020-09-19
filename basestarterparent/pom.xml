@@ -16,6 +16,7 @@
     <modules>
         <module>webstarterparent</module>
         <module>basestarterparent-webfeignparent</module>
+        <module>ms-archit-web-plain-starter</module>
     </modules>
 
     <dependencies>
